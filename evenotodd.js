@@ -1,2 +1,2 @@
 let a=1;
-((a%2)==0)?console.log("even"):console.log("odd")
+((a%2)==0)?console.log("even"):console.log("odd")//this is even or odd
